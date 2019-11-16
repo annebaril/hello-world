@@ -1,2 +1,2 @@
 # hello-world
-tutorial to learn how to use GitHub
+Tutorial to learn how to use GitHub. It's useful when you're working on a collaborative projects.
